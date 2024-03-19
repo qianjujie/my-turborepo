@@ -1,7 +1,7 @@
 {
   "name": "@qianjj/eslint-config",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/qianjujie/my-turborepo",
   "bugs": {
     "url": "https://github.com/qianjujie/my-turborepo/issues"
