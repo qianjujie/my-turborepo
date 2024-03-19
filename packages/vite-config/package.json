@@ -1,6 +1,6 @@
 {
   "name": "@qianjj/vite-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "homepage": "https://github.com/qianjujie/my-turborepo",
   "bugs": {
@@ -22,9 +22,6 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "clean": "pnpm rimraf .turbo node_modules dist",
     "lint": "pnpm eslint .",
@@ -48,7 +45,7 @@
     "rollup-plugin-visualizer": "^5.9.2",
     "sass": "^1.63.6",
     "unocss": "^0.55.3",
-		"tailwindcss": "latest",
+    "tailwindcss": "latest",
     "vite-plugin-compression": "^0.5.1",
     "vite-plugin-dts": "^3.7.3",
     "vite-plugin-mock": "^2.9.6",
