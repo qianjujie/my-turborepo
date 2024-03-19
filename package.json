@@ -2,7 +2,7 @@
   "name": "my-turborepo",
   "version": "1.0.0",
   "description": "基于vite, vue3, monorepo turborepo的项目,在packages下集成了eslint-config,stylelint-config,ts-config,vite-config, 当做项目初始化模板",
-	"homepage": "https://github.com/qianjujie/my-turborepo#readme",
+	"homepage": "https://github.com/qianjujie/my-turborepo",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/qianjujie/my-turborepo.git"
@@ -12,7 +12,7 @@
     "vue",
     "turborepo",
     "monorepo",
-    "workspac:*e"
+    "workspace:*"
   ],
   "author": "qianjj",
   "license": "ISC",

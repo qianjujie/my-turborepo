@@ -2,13 +2,13 @@
   "name": "@qianjj/stylelint-config",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/vbenjs/vue-vben-admin",
+  "homepage": "https://github.com/qianjujie/my-turborepo",
   "bugs": {
-    "url": "https://github.com/vbenjs/vue-vben-admin/issues"
+    "url": "https://github.com/qianjujie/my-turborepo/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbenjs/vue-vben-admin.git",
+    "url": "git+https://github.com/qianjujie/my-turborepo.git",
     "directory": "packages/stylelint-config"
   },
   "license": "MIT",
